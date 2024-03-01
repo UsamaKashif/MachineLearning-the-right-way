@@ -9,6 +9,7 @@ This repository is a learning resource designed for those eager to delve into th
 ## List of Models
 
 1. [**Linear Regression (No Library)**](https://github.com/UsamaKashif/MachineLearning-the-right-way/tree/main/01-%20LinearRegression%20no%20library)
+2. [**Logistic Regression (No Library)**](https://github.com/UsamaKashif/MachineLearning-the-right-way/tree/main/02-%20LogisticRegression%20no%20library)
 
 ## Want to Support?
 
