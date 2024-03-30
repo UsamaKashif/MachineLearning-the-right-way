@@ -11,6 +11,7 @@ This repository is a learning resource designed for those eager to delve into th
 1. [**Linear Regression (No Library)**](https://github.com/UsamaKashif/MachineLearning-the-right-way/tree/main/01-%20LinearRegression%20no%20library)
 2. [**Logistic Regression (No Library)**](https://github.com/UsamaKashif/MachineLearning-the-right-way/tree/main/02-%20LogisticRegression%20no%20library)
 3. [**MNIST Binary Classification**](https://github.com/UsamaKashif/MachineLearning-the-right-way/tree/main/03-%20MNIST%20Binary%20Classification)
+4. [**MNIST Multi-Class Classification**](https://github.com/UsamaKashif/MachineLearning-the-right-way/tree/main/04-%20MNIST%20Multi%20Class%20Classification)
 
 ## Want to Support?
 
